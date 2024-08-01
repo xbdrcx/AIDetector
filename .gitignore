@@ -1,0 +1,5 @@
+venv/
+detector_to_exe.py
+config.ini
+cam.mp4
+TODO.txt
